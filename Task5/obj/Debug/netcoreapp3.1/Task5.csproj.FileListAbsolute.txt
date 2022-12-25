@@ -1,0 +1,32 @@
+F:\+Student files\ООП\Практики\Astafiev_HW4\Task5\bin\Debug\netcoreapp3.1\Task5.exe
+F:\+Student files\ООП\Практики\Astafiev_HW4\Task5\bin\Debug\netcoreapp3.1\Task5.deps.json
+F:\+Student files\ООП\Практики\Astafiev_HW4\Task5\bin\Debug\netcoreapp3.1\Task5.runtimeconfig.json
+F:\+Student files\ООП\Практики\Astafiev_HW4\Task5\bin\Debug\netcoreapp3.1\Task5.runtimeconfig.dev.json
+F:\+Student files\ООП\Практики\Astafiev_HW4\Task5\bin\Debug\netcoreapp3.1\Task5.dll
+F:\+Student files\ООП\Практики\Astafiev_HW4\Task5\bin\Debug\netcoreapp3.1\Task5.pdb
+F:\+Student files\ООП\Практики\Astafiev_HW4\Task5\obj\Debug\netcoreapp3.1\Task5.csproj.AssemblyReference.cache
+F:\+Student files\ООП\Практики\Astafiev_HW4\Task5\obj\Debug\netcoreapp3.1\Task5.csproj.GenerateResource.cache
+F:\+Student files\ООП\Практики\Astafiev_HW4\Task5\obj\Debug\netcoreapp3.1\Task5.GeneratedMSBuildEditorConfig.editorconfig
+F:\+Student files\ООП\Практики\Astafiev_HW4\Task5\obj\Debug\netcoreapp3.1\Task5.AssemblyInfoInputs.cache
+F:\+Student files\ООП\Практики\Astafiev_HW4\Task5\obj\Debug\netcoreapp3.1\Task5.AssemblyInfo.cs
+F:\+Student files\ООП\Практики\Astafiev_HW4\Task5\obj\Debug\netcoreapp3.1\Task5.csproj.CoreCompileInputs.cache
+F:\+Student files\ООП\Практики\Astafiev_HW4\Task5\obj\Debug\netcoreapp3.1\Task5.dll
+F:\+Student files\ООП\Практики\Astafiev_HW4\Task5\obj\Debug\netcoreapp3.1\Task5.pdb
+F:\+Student files\ООП\Практики\Astafiev_HW4\Task5\obj\Debug\netcoreapp3.1\Task5.genruntimeconfig.cache
+F:\+Student files\ООП\Практики\Astafiev_HW4\Task5\obj\Debug\netcoreapp3.1\Task5.MainForm.resources
+C:\Users\Denis\Desktop\KardashHW4\Task5\bin\Debug\netcoreapp3.1\Task5.exe
+C:\Users\Denis\Desktop\KardashHW4\Task5\bin\Debug\netcoreapp3.1\Task5.deps.json
+C:\Users\Denis\Desktop\KardashHW4\Task5\bin\Debug\netcoreapp3.1\Task5.runtimeconfig.json
+C:\Users\Denis\Desktop\KardashHW4\Task5\bin\Debug\netcoreapp3.1\Task5.runtimeconfig.dev.json
+C:\Users\Denis\Desktop\KardashHW4\Task5\bin\Debug\netcoreapp3.1\Task5.dll
+C:\Users\Denis\Desktop\KardashHW4\Task5\bin\Debug\netcoreapp3.1\Task5.pdb
+C:\Users\Denis\Desktop\KardashHW4\Task5\obj\Debug\netcoreapp3.1\Task5.csproj.AssemblyReference.cache
+C:\Users\Denis\Desktop\KardashHW4\Task5\obj\Debug\netcoreapp3.1\Task5.MainForm.resources
+C:\Users\Denis\Desktop\KardashHW4\Task5\obj\Debug\netcoreapp3.1\Task5.csproj.GenerateResource.cache
+C:\Users\Denis\Desktop\KardashHW4\Task5\obj\Debug\netcoreapp3.1\Task5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Denis\Desktop\KardashHW4\Task5\obj\Debug\netcoreapp3.1\Task5.AssemblyInfoInputs.cache
+C:\Users\Denis\Desktop\KardashHW4\Task5\obj\Debug\netcoreapp3.1\Task5.AssemblyInfo.cs
+C:\Users\Denis\Desktop\KardashHW4\Task5\obj\Debug\netcoreapp3.1\Task5.csproj.CoreCompileInputs.cache
+C:\Users\Denis\Desktop\KardashHW4\Task5\obj\Debug\netcoreapp3.1\Task5.dll
+C:\Users\Denis\Desktop\KardashHW4\Task5\obj\Debug\netcoreapp3.1\Task5.pdb
+C:\Users\Denis\Desktop\KardashHW4\Task5\obj\Debug\netcoreapp3.1\Task5.genruntimeconfig.cache

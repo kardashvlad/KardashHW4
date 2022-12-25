@@ -1,0 +1,28 @@
+F:\+Student files\ООП\Практики\Astafiev_HW4\Task4\bin\Debug\netcoreapp3.1\Task4.exe
+F:\+Student files\ООП\Практики\Astafiev_HW4\Task4\bin\Debug\netcoreapp3.1\Task4.deps.json
+F:\+Student files\ООП\Практики\Astafiev_HW4\Task4\bin\Debug\netcoreapp3.1\Task4.runtimeconfig.json
+F:\+Student files\ООП\Практики\Astafiev_HW4\Task4\bin\Debug\netcoreapp3.1\Task4.runtimeconfig.dev.json
+F:\+Student files\ООП\Практики\Astafiev_HW4\Task4\bin\Debug\netcoreapp3.1\Task4.dll
+F:\+Student files\ООП\Практики\Astafiev_HW4\Task4\bin\Debug\netcoreapp3.1\Task4.pdb
+F:\+Student files\ООП\Практики\Astafiev_HW4\Task4\obj\Debug\netcoreapp3.1\Task4.csproj.AssemblyReference.cache
+F:\+Student files\ООП\Практики\Astafiev_HW4\Task4\obj\Debug\netcoreapp3.1\Task4.GeneratedMSBuildEditorConfig.editorconfig
+F:\+Student files\ООП\Практики\Astafiev_HW4\Task4\obj\Debug\netcoreapp3.1\Task4.AssemblyInfoInputs.cache
+F:\+Student files\ООП\Практики\Astafiev_HW4\Task4\obj\Debug\netcoreapp3.1\Task4.AssemblyInfo.cs
+F:\+Student files\ООП\Практики\Astafiev_HW4\Task4\obj\Debug\netcoreapp3.1\Task4.csproj.CoreCompileInputs.cache
+F:\+Student files\ООП\Практики\Astafiev_HW4\Task4\obj\Debug\netcoreapp3.1\Task4.dll
+F:\+Student files\ООП\Практики\Astafiev_HW4\Task4\obj\Debug\netcoreapp3.1\Task4.pdb
+F:\+Student files\ООП\Практики\Astafiev_HW4\Task4\obj\Debug\netcoreapp3.1\Task4.genruntimeconfig.cache
+C:\Users\Denis\Desktop\KardashHW4\Task4\bin\Debug\netcoreapp3.1\Task4.exe
+C:\Users\Denis\Desktop\KardashHW4\Task4\bin\Debug\netcoreapp3.1\Task4.deps.json
+C:\Users\Denis\Desktop\KardashHW4\Task4\bin\Debug\netcoreapp3.1\Task4.runtimeconfig.json
+C:\Users\Denis\Desktop\KardashHW4\Task4\bin\Debug\netcoreapp3.1\Task4.runtimeconfig.dev.json
+C:\Users\Denis\Desktop\KardashHW4\Task4\bin\Debug\netcoreapp3.1\Task4.dll
+C:\Users\Denis\Desktop\KardashHW4\Task4\bin\Debug\netcoreapp3.1\Task4.pdb
+C:\Users\Denis\Desktop\KardashHW4\Task4\obj\Debug\netcoreapp3.1\Task4.csproj.AssemblyReference.cache
+C:\Users\Denis\Desktop\KardashHW4\Task4\obj\Debug\netcoreapp3.1\Task4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Denis\Desktop\KardashHW4\Task4\obj\Debug\netcoreapp3.1\Task4.AssemblyInfoInputs.cache
+C:\Users\Denis\Desktop\KardashHW4\Task4\obj\Debug\netcoreapp3.1\Task4.AssemblyInfo.cs
+C:\Users\Denis\Desktop\KardashHW4\Task4\obj\Debug\netcoreapp3.1\Task4.csproj.CoreCompileInputs.cache
+C:\Users\Denis\Desktop\KardashHW4\Task4\obj\Debug\netcoreapp3.1\Task4.dll
+C:\Users\Denis\Desktop\KardashHW4\Task4\obj\Debug\netcoreapp3.1\Task4.pdb
+C:\Users\Denis\Desktop\KardashHW4\Task4\obj\Debug\netcoreapp3.1\Task4.genruntimeconfig.cache
